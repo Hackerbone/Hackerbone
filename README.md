@@ -1,16 +1,24 @@
-### Hi there 👋
+## Look who's here 👀, Welcome to my Github Profile 👋
 
-<!--
-**Hackerbone/Hackerbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React.JS
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on React.JS, Node,js and Web Development projects
+- 🤔 I’m looking for help with Redux
+- 💬 Ask me about anything
+- ⚡ Fun fact: I love cartoons (Rick and Morty 👌) and I'm a Violinist 🎻
 
-Here are some ideas to get you started:
+[![Linkedin: sitaraman-s-b4647375](https://img.shields.io/badge/-Sitaraman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Sitaraman-2648ff?style=flat-square&logo=google-chrome)](https://hackerbone.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Sitaraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerbone&show_icons=true&theme=radical)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbone&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=hackerbone.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
