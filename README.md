@@ -15,10 +15,15 @@
 
 ![Sitaraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackerbone&show_icons=true&theme=radical)
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbone&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=hackerbone.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=otic&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=encredx-react&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=hyperloop-clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
