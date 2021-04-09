@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love cartoons (Rick and Morty 👌) and I'm a Violinist 🎻
 
 [![Linkedin: sitaraman-s-b4647375](https://img.shields.io/badge/-Sitaraman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitaraman-s-b4647375/)](https://www.linkedin.com/in/sitaraman-s-b4647375/)
-[![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/iampawan)
+[![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/hackerbone)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Sitaraman-2648ff?style=flat-square&logo=google-chrome)](https://hackerbone.github.io/)
 
 ---
