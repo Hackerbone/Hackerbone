@@ -21,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=hackerbone.github.io&theme=radical)](https://github.com/hackerbone/hackerbone.github.io)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=otic&theme=radical)](https://github.com/hackerbone/otic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=spy-share&theme=radical)](https://github.com/hackerbone/spy-share)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=encredx-react&theme=radical)](https://github.com/hackerbone/encredx-react)
 
