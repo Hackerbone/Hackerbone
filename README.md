@@ -1,7 +1,7 @@
 ## Look who's here 👀, Welcome to my Github Profile 👋
 
 - 🔭 I’m currently working on React.JS
-- 🌱 I’m currently learning Truffle
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on React.JS, Node,js and Web Development projects
 - 💬 Ask me about anything
 - ⚡ Fun fact: (Wubba Lubba Dub Dub 👌) and I'm a Violinist 🎻
