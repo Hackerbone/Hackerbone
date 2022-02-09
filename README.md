@@ -1,6 +1,6 @@
 ## Look who's here 👀, Welcome to my Github Profile 👋
 
-- 🔭 I’m currently working on React.JS
+- 🔭 I’m currently gaining knowledge in DevOps
 - 👯 I’m looking to collaborate on Web Development / DevOps Projects
 - 💬 Ask me about anything
 - ⚡ Fun fact: (Wubba Lubba Dub Dub 👌) and I'm a Violinist 🎻
