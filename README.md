@@ -8,7 +8,7 @@
 
 [![Linkedin: sitaraman-s-b4647375](https://img.shields.io/badge/-Sitaraman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitaraman-s-b4647375/)](https://www.linkedin.com/in/sitaraman-s-b4647375/)
 [![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/hackerbone)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Sitaraman-2648ff?style=flat-square&logo=google-chrome)](https://hackerbone.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Sitaraman-2648ff?style=flat-square&logo=google-chrome)](https://ssitaraman.com)
 
 <p align="center" width="100%">
  <img src="https://github-readme-stats.vercel.app/api?username=hackerbone&show_icons=true&theme=radical" alt="Readme Image" />
@@ -31,8 +31,8 @@
 
 <p align="center" width="100%">
 
-<a href="https://github.com/hackerbone/hackerbone.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=hackerbone.github.io&theme=radical" />
+<a href="https://github.com/hackerbone/HackerLLMBench">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=HackerLLMBench&theme=radical" />
 </a>
 <a href="https://github.com/hackerbone/spy-share">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=spy-share&theme=radical" />
