@@ -2,7 +2,7 @@
 
 ## Look who's here 👀, Welcome to my Github Profile 👋
 
-- 🔭 I’m currently working making Autonomous LLM assisted Pentesting possible
+- 🔭 I’m currently working on making Autonomous LLM assisted Pentesting possible!
 - 💬 Ask me about anything tech
 - ⚡ Fun fact: I'm a Violinist 🎻 and a pop culture fanatic
 
