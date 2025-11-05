@@ -2,10 +2,9 @@
 
 ## Look who's here 👀, Welcome to my Github Profile 👋
 
-- 🔭 I’m currently gaining knowledge in DevOps
-- 👯 I’m looking to collaborate on Web Development / DevOps Projects
-- 💬 Ask me about anything
-- ⚡ Fun fact: (Wubba Lubba Dub Dub 👌) and I'm a Violinist 🎻
+- 🔭 I’m currently working making Autonomous LLM assisted Pentesting possible
+- 💬 Ask me about anything tech
+- ⚡ Fun fact: I'm a Violinist 🎻 and a pop culture fanatic
 
 [![Linkedin: sitaraman-s-b4647375](https://img.shields.io/badge/-Sitaraman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitaraman-s-b4647375/)](https://www.linkedin.com/in/sitaraman-s-b4647375/)
 [![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/hackerbone)
