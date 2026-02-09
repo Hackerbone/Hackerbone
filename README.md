@@ -10,10 +10,8 @@
 [![GitHub hackerbone](https://img.shields.io/github/followers/hackerbone?label=follow&style=social)](https://github.com/hackerbone)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Sitaraman-2648ff?style=flat-square&logo=google-chrome)](https://ssitaraman.com)
 
-<p align="center" width="100%">
- <img src="https://github-readme-stats.vercel.app/api?username=hackerbone&show_icons=true&theme=radical" alt="Readme Image" />
-</p>
-
+### Tech stack I work with
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 <p align="center" width="100%">
  <img src="https://streak-stats.demolab.com?user=hackerbone&theme=radical" alt="Github Streak" />
 </p>
@@ -28,19 +26,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=TheCartel&theme=radical)](https://github.com/hackerbone/TheCartel)
  -->
-
-<p align="center" width="100%">
-
-<a href="https://github.com/hackerbone/HackerLLMBench">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=HackerLLMBench&theme=radical" />
-</a>
-<a href="https://github.com/hackerbone/spy-share">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=spy-share&theme=radical" />
-</a>
-<a href="https://github.com/hackerbone/encredx-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=encredx-react&theme=radical" />
-</a>
-<a href="https://github.com/hackerbone/TheCartel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackerbone&repo=TheCartel&theme=radical" />
-</a>
-</p>
